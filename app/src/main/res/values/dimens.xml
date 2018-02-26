@@ -1,0 +1,13 @@
+<resources>
+
+    <dimen name="min_height_textheader_materiallike">65dp</dimen>
+    <dimen name="min_height_header_materiallike">100dp</dimen>
+    <dimen name="min_height_header">120dp</dimen>
+    <dimen name="max_height_header">300dp</dimen>
+    <dimen name="toolbar_height">56dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="title_scroll_height">180dp</dimen>
+
+</resources>
